@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environments
+myvenv/
+venv/
+
+# Database
+db.sqlite3
+
+# macOS
+.DS_Store
